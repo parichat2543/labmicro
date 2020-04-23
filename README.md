@@ -12,4 +12,4 @@
 
 [สรุปผลการทดลองที่ 3]( https://drive.google.com/file/d/1CoxakxvItS8SWSsS0ovlpdEnb5Rc7ty9/view?usp=sharing )
 
-[สรุปผลการทดลองที่ 4](https://drive.google.com/file/d/1jLmZiuAGgHSYEaXwGCW-ztdk_2pjXgKL/view?usp=sharing )
+[สรุปผลการทดลองที่ 4](https://drive.google.com/file/d/1Qw4Zxqm2zE1vmhLUNAomdp-CkBUyTAjA/view?usp=sharing )
