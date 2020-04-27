@@ -13,3 +13,7 @@
 [สรุปผลการทดลองที่ 3]( https://drive.google.com/file/d/1CoxakxvItS8SWSsS0ovlpdEnb5Rc7ty9/view?usp=sharing )
 
 [สรุปผลการทดลองที่ 4](https://drive.google.com/file/d/1Qw4Zxqm2zE1vmhLUNAomdp-CkBUyTAjA/view?usp=sharing )
+
+[สมัคร github ,Fork and Edit Code(https://drive.google.com/file/d/1gDOd1sStPf7nBR65fkPd5mq3yFsoe2fP/view?usp=sharing )
+
+[การสร้าง github page](https://drive.google.com/file/d/18KYvvxpFTJwqC7ouWMRfuTOUdqKnDaXh/view?usp=sharing )
